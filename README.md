@@ -18,5 +18,5 @@
   - [X] Media Schema (media_kind[link, video], title, link)
   - [X] CRUD Media
 
-- [ ] Config Head Securities
+- [X] Config Head Securities
 - [ ] Deploy
