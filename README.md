@@ -4,13 +4,13 @@
 
 ### To-Do
 
-- [ ] Connect MongoDb
-- [ ] USER
+- [x] Connect MongoDb
+- [x] USER
 
-  - [ ] User folder
-  - [ ] User Schema (name, age, gender, email)
-  - [ ] User service, module and controller
-  - [ ] RU (GET and PUT) user
+  - [x] User folder
+  - [x] User Schema (name, age, gender, email)
+  - [x] User service, module and controller
+  - [x] CRUD user
 
 - [ ] MEDIA
 
