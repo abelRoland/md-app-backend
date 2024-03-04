@@ -4,19 +4,19 @@
 
 ### To-Do
 
-- [x] Connect MongoDb
-- [x] USER
+- [X] Connect MongoDb
+- [X] USER
 
-  - [x] User folder
-  - [x] User Schema (name, age, gender, email)
-  - [x] User service, module and controller
-  - [x] CRUD user
+  - [X] User folder
+  - [X] User Schema (name, age, gender, email)
+  - [X] User service, module and controller
+  - [X] CRUD user
 
-- [ ] MEDIA
+- [X] MEDIA
 
-  - [ ] Media folder
-  - [ ] Media Schema (media_kind[link, video], title, link)
-  - [ ] CRUD Media
+  - [X] Media folder
+  - [X] Media Schema (media_kind[link, video], title, link)
+  - [X] CRUD Media
 
 - [ ] Config Head Securities
 - [ ] Deploy
