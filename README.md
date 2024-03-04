@@ -1,22 +1,22 @@
-# Nest Test
+# MD App Backend
 
-## The meaning of this repository is to test the ideas of Nest
+## This repository is the backend of the MD app
 
 ### To-Do
 
-- [X] Connect MongoDb
-- [X] USER
+- [x] Connect MongoDb
+- [x] USER
 
-  - [X] User folder
-  - [X] User Schema (name, age, gender, email)
-  - [X] User service, module and controller
-  - [X] CRUD user
+  - [x] User folder
+  - [x] User Schema (name, age, gender, email)
+  - [x] User service, module and controller
+  - [x] CRUD user
 
-- [X] MEDIA
+- [x] MEDIA
 
-  - [X] Media folder
-  - [X] Media Schema (media_kind[link, video], title, link)
-  - [X] CRUD Media
+  - [x] Media folder
+  - [x] Media Schema (media_kind[link, video], title, link)
+  - [x] CRUD Media
 
-- [X] Config Head Securities
+- [x] Config Head Securities
 - [ ] Deploy
